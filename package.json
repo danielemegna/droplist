@@ -8,6 +8,7 @@
     "serve": "node index.js"
   },
   "dependencies": {
+    "angular": "^1.6.9",
     "dropbox": "^4.0.1",
     "fastify": "^1.2.0",
     "isomorphic-fetch": "^2.2.1",
