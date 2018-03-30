@@ -1,0 +1,16 @@
+{
+  "name": "droplist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniele Megna",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "dropbox": "^4.0.1",
+    "fastify": "^1.2.0",
+    "isomorphic-fetch": "^2.2.1",
+    "properties-reader": "^0.0.16"
+  }
+}
